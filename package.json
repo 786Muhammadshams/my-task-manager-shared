@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
-  "description": "Helpers library for Jobber app",
+  "description": "Helpers library for my-task-manager app",
   "engines": {
     "node": ">=18"
   },
@@ -18,11 +18,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@786Muhammadshams/my-jobber-shared",
+  "name": "@786Muhammadshams/my-task-manager-shared",
   "author": "Muhammad Shams",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/786Muhammadshams/my-task-manager-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
