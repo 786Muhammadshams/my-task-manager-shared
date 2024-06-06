@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "declaration": true,
+    "typeRoots": ["./node_modules/@types"],
     "emitDeclarationOnly": true,
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
@@ -20,6 +21,6 @@
     "pretty": true,
     "resolveJsonModule": true
   },
-  "include": ["src"],
+  "include": ["src", "custom-types"],
   "exclude": ["node_modules"]
 }

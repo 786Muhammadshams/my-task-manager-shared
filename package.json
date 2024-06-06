@@ -52,6 +52,8 @@
     "@babel/cli": "^7.24.7",
     "@babel/core": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
+    "@types/http-status-codes": "^1.2.0",
+    "@types/winston": "^2.4.4",
     "cross-env": "^7.0.3"
   }
 }
