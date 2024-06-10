@@ -25,19 +25,19 @@ export {
   IMessageDocument,
 } from './chat.interface';
 export { IEmailLocals } from './email.interface';
-export {
-  GigType,
-  ICreateGig,
-  IGigCardItems,
-  IGigContext,
-  IGigInfo,
-  IGigTopProps,
-  IGigViewReviewsProps,
-  IGigsProps,
-  ISelectedBudget,
-  ISellerGig,
-  // ISearchGig
-} from './gig.interface';
+// export {
+//   GigType,
+//   ICreateGig,
+//   IGigCardItems,
+//   IGigContext,
+//   IGigInfo,
+//   IGigTopProps,
+//   IGigViewReviewsProps,
+//   IGigsProps,
+//   ISelectedBudget,
+//   ISellerGig,
+//   // ISearchGig
+// } from './gig.interface';
 export {
   IDeliveredWork,
   IExtendedDelivery,
