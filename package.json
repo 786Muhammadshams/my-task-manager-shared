@@ -18,11 +18,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@786Muhammadshams/my-task-manager-shared",
+  "name": "@786muhammadshams/my-task-manager-shared",
   "author": "Muhammad Shams",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/786Muhammadshams/my-task-manager-shared.git"
+    "url": "git+https://github.com/786muhammadshams/my-task-manager-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
